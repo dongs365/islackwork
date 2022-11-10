@@ -3,8 +3,8 @@ import I18n from './i18n'
 export default {
   appName: 'I Slack Work',
 
-  'slogan.default': `**Catching slack is an instinct
-**Slack * * | is an inborn talent
+  'slogan.default': `** Slack ** | is an instinct
+** Slack * * | is an inborn talent
 **I work Slack**
 It's impossible to go to work | It's impossible to go to work in my life
 Pretend to go to work | leave work sincerely

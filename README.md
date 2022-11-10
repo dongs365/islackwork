@@ -1,4 +1,4 @@
-# I Slack Works
+# I Slack Work
 
 [visit site](http://islack.work)
 
@@ -16,7 +16,7 @@ theme |`light`, `dark`, `white`, `black`, `chrome-dark`
 
 #### Env
 1. node v9.0
-npm install -g n
+`npm install -g n`
 
 ## develop
 
