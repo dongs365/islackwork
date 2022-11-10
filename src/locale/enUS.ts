@@ -12,7 +12,7 @@ You slack, I slack | Boss BMW turns green orange
 It's a pleasure to slack at work | It's a pleasure to slack all the time
 Go to work and do nothing
 Go to work paddling | spiritual fortress
-Slack at Work | Happy,
+Slack at Work | Happy`,
   'action.ok': 'OK',
   'action.save': 'Save',
   'action.save.success': 'Saved successfully',
