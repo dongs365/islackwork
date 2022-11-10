@@ -1,16 +1,18 @@
 import I18n from './i18n'
 
 export default {
-  appName: 'I ❤ Works',
+  appName: 'I Slack Work',
 
-  'slogan.default': `**Excellent**| is a habit
-**Excellent**| is a gift
-**I love working**
-Working makes me happy
-I am in the ocean of work
-Boss told me to have lunch | I turn a deaf ear
-Colleagues call me to drink | I am indifferent
-Manager call me to sleep | I refuse strongly`,
+  'slogan.default': `**Catching slack is an instinct
+**Slack * * | is an inborn talent
+**I work Slack**
+It's impossible to go to work | It's impossible to go to work in my life
+Pretend to go to work | leave work sincerely
+You slack, I slack | Boss BMW turns green orange
+It's a pleasure to slack at work | It's a pleasure to slack all the time
+Go to work and do nothing
+Go to work paddling | spiritual fortress
+Slack at Work | Happy,
   'action.ok': 'OK',
   'action.save': 'Save',
   'action.save.success': 'Saved successfully',

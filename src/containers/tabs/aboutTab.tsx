@@ -28,7 +28,7 @@ export default class AboutTab extends Component<Props> {
             <PreferenceItem>
               <div>
                 <a
-                  href={'https://github.com/sorcererXW/iloveworks'}
+                  href={'https://github.com/dongs365/islackwork'}
                   target={'_blank'}
                   rel={'noopener noreferrer'}
                   style={{
@@ -43,7 +43,7 @@ export default class AboutTab extends Component<Props> {
             <PreferenceItem>
               <div>
                 <a
-                  href={'https://github.com/sorcererXW/iloveworks/releases'}
+                  href={'https://github.com/dongs365/islackwork/releases'}
                   target={'_blank'}
                   rel={'noopener noreferrer'}
                   style={{
