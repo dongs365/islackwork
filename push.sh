@@ -1,4 +1,4 @@
 git add .
-git commit -m ":tada: `date`"
+git commit -m "🦑 `date`"
 git push
 
